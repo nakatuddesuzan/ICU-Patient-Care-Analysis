@@ -236,3 +236,4 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 .python-version
+reports/Business_and_Data_Understanding.docx
