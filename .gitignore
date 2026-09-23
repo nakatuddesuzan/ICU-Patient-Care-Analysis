@@ -235,3 +235,4 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+.python-version
